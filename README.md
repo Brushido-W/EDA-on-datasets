@@ -1,5 +1,3 @@
-# gitTask
-
 This README file contains a detailed discription for the last 2 Capstone projects.
 
 Capstone Project II (Automobile)
@@ -8,7 +6,7 @@ The purpose of the project is to perform a EDA to have a better understanding of
 not only that but to also identify obvious errors, as well as understand patterns within the data, detect 
 outliers or anomalous events and find interesting relations among the variables.
 
-In the Automobile datsset all the data is being analyzed. It is done by reading the text file and structuring
+In the Automobile dataset all the data is being analyzed. It is done by reading the text file and structuring
 the data in a table to be easier to read. From there the data is mainly analyzed by craeting visualizations. 
 The visualizations were created to shows us the different trends and relationships within the dataset and help 
 us understand the dataset.
