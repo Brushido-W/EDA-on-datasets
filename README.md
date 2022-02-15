@@ -1,6 +1,6 @@
-This README file contains a detailed discription for the last 2 Capstone projects.
+This README file contains a detailed discription for the Automobile and Medicine projects.
 
-Capstone Project II (Automobile)
+Automobile Project 
 
 The purpose of the project is to perform a EDA to have a better understanding of the automobile dataset, 
 not only that but to also identify obvious errors, as well as understand patterns within the data, detect 
@@ -25,7 +25,7 @@ After performing a successful EDA our top 10 main findings of the dataset is tha
 10. The average peak-rpm is about 52 000.
 
 
-Capstone Project III (Medicine)
+Medicine Project 
 
 The purpose of the project is to also perform a EDA to have a better understanding of the dataset, check for 
 missing data and other mistakes, gain maximum insight into the data set and its underlying structure. 
